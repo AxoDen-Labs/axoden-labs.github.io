@@ -45,5 +45,5 @@ Our foundational paper describing the AxoDen dual-engine approach:
 - **Location:** London, UK (virtual global collective)
 
 ---
+_© 2025 AxoDen Labs — Content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)._
 
-_© 2025 AxoDen Labs — CC BY 4.0 License._
