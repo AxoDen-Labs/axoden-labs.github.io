@@ -1,10 +1,13 @@
 ---
 title: AxoDen Labs
 ---
+<p align="center">
+  <img src="axoden-logo.jpg" alt="AxoDen Labs Logo" width="180"/>
+</p>
 
 # 🌌 **AxoDen Labs**
-
 > **Reality computes — we’re learning its language.**
+
 
 ---
 
