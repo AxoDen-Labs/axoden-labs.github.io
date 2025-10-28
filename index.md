@@ -1,13 +1,17 @@
----
-title: AxoDen Labs
----
 <p align="center">
-  <img src="axoden-logo.jpg" alt="AxoDen Labs Logo" width="180"/>
+  <img src="axoden-logo.jpg" alt="AxoDen Labs Logo" width="180" style="border-radius:12px;"/>
 </p>
 
-# 🌌 **AxoDen Labs**
-> **Reality computes — we’re learning its language.**
+<h1 align="center">AxoDen Labs</h1>
+<h3 align="center"><em>Reality computes — we’re learning its language.</em></h3>
 
+---
+
+<p align="center">
+  <a href="#about">About</a> • 
+  <a href="#current-work">Current Work</a> • 
+  <a href="#connect">Connect</a>
+</p>
 
 ---
 
