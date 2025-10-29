@@ -67,14 +67,6 @@ Foundational papers describing the AxoDen dual-engine approach:
 → _Index:_ [whitepapers/](./whitepapers/README.md)
 
 
-
----
-
-## 🧭 AxoDen Manifest
-
-> → [Read the full Manifest →](manifest.md)
-
-
 ---
 
 ## 🌐 Connect
