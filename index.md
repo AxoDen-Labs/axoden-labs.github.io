@@ -6,14 +6,13 @@
 <h3 align="center"><em>Reality computes — we’re learning its language.</em></h3>
 
 ---
-
 <p align="center">
   <a href="#about-axoden-labs">About</a> • 
+  <a href="manifest.md">Manifest</a> • 
   <a href="#axoden-helix4--from-law--proof--mind--action">Helix⁴</a> •
   <a href="#current-work">Current Work</a> • 
   <a href="#connect">Connect</a>
 </p>
-
 ---
 
 ## About AxoDen Labs
@@ -68,12 +67,14 @@ Foundational papers describing the AxoDen dual-engine approach:
 **scientific validation + creative synthesis.**  
 → _Index:_ [whitepapers/](./whitepapers/README.md)
 
+
+
 ---
 
-## 🪶 Quote
+## 🧭 AxoDen Manifest
 
-> “In every equation, a design pattern.”  
-> — *AxoDen Labs, 2025*
+> → [Read the full Manifest →](manifest.md)
+
 
 ---
 
