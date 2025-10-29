@@ -13,7 +13,6 @@
   <a href="#current-work">Current Work</a> • 
   <a href="#connect">Connect</a>
 </p>
----
 
 ## About AxoDen Labs
 
