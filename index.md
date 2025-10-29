@@ -31,12 +31,10 @@ Our research is guided by a unified model — **AxoDen Helix⁴** — connecting
 > AxoDen explores intelligence emerging from transparent reasoning frameworks.”
 
 ---
-
 ## AxoDen Helix⁴ — from Law → Proof → Mind → Action
 
-[Physics] → [Maths] → [Cognition] → [Engineering]
-↺ Feedback (measurement → new constraints → new designs)
-
+**[Physics] → [Maths] → [Cognition] → [Engineering]**  
+↺ *Feedback loop: measurement → new constraints → new designs*
 
 - **Physics — Connectivity creates reality.**  
   Entanglement and geometry define the field of possible computation.
