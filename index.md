@@ -8,7 +8,7 @@
 ---
 <p align="center">
   <a href="#about-axoden-labs">About</a> • 
-  <a href="manifest.md">Manifest</a> • 
+  <a href="MANIFEST.md">Manifest</a> • 
   <a href="#axoden-helix4--from-law--proof--mind--action">Helix⁴</a> •
   <a href="#current-work">Current Work</a> • 
   <a href="#connect">Connect</a>
