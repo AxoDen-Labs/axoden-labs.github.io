@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <!-- Basic styling (optional, safe) -->
+    <style>
+      body { max-width: 860px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji"; }
+      pre, code { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+      blockquote { border-left: 4px solid #eee; padding-left: 1rem; color: #555; }
+      .katex-error { color: #c00; }
+    </style>
+
+    {% include mathjax.html %}
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
