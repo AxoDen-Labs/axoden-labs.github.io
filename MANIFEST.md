@@ -6,6 +6,8 @@
 AxoDen isn’t a product — it’s a principle.  
 It’s the pursuit of **intelligence that knows itself**, built on transparency, introspection, and physical law.
 
+AxoDen Labs develops architectures, proofs, and reference implementations that make reasoning visible, auditable, and aligned with physical law.
+
 ---
 
 ### Why It Exists
@@ -26,18 +28,20 @@ Because **comprehension** begins where opacity ends.
 
 ### What’s Next
 
-We’re building the **AxoDen Helix⁴** — a four-dimensional feedback architecture:
+We’re building the **AxoDen Helix⁴** — a four-layer feedback architecture:
 
-Physics → Mathematics → Cognition → Engineering
-↓
+**Physics → Mathematics → Cognition → Engineering**  
+↓  
 Feedback loops enabling emergent evolution
 
 Four layers. Continuous refinement. **Provable emergence.**
 
 ---
 
-> “If Wolfram showed that simplicity gives rise to complexity,  
-> AxoDen shows that transparency gives rise to understanding.”
+> “If Wolfram showed how simplicity gives rise to complexity,  
+> AxoDen shows how transparency gives rise to understanding.”
+
+\*Not affiliated with the similarly named neuroscience image-analysis software project.
 
 © 2025 · Erkan Yalcinkaya · **AxoDen Labs**  
 [axoden.org](https://axoden.org) · erkan@axoden.org
