@@ -1,0 +1,21 @@
+title: AxoDen Labs
+description: Reality computes — we’re learning its language.
+# Use GitHub Pages’ default kramdown + rouge – math handled client-side by MathJax
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  # Pass TeX through for MathJax to pick up
+  math_engine: mathjax
+  math_engine_opts: {}
+
+# Keep GitHub Pages happy (no non-whitelisted plugins)
+plugins: []
+
+# Optional: make sure Pages picks the root as the site
+include:
+  - README.md
+
+# Optional: set a clean permalink style
+permalink: pretty
