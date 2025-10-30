@@ -73,6 +73,10 @@ Each brief connects a physical principle to an engineering pattern.
 Foundational notes introducing AxoDen’s methods and epistemology.  
 → [whitepapers/](./whitepapers/README.md)
 
+- **Operators (new):** [Helix-Operators.md](./engineering/Helix-Operators.md) — the “verbs” of AxoDen  
+- **Creative Remix:** [Index](./engineering/creative-remix-INDEX.md) — cross-disciplinary reframing methods
+
+
 > AxoDen prioritizes **clarity, limits, and reproducibility** over scale-for-its-own-sake.
 
 ---
